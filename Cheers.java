@@ -17,6 +17,7 @@ public class Cheers {
                 String sentence = useAn ? "Give me an "+ word.charAt(count1)+": "+word.charAt(count1)+"!" : "Give me a "+ word.charAt(count1)+": "+word.charAt(count1)+"!";
                 System.out.println(sentence);
                 count1++;  }
+            System.out.println("What does that spell?");    
             while (count2<repeat) {System.out.print(word+"!!!\n");
                 count2++;}
 

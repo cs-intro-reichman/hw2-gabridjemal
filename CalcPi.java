@@ -31,7 +31,7 @@ public class CalcPi {
 		}
 		double pi = (double) piOver4*4;
 		System.out.println("pi according to java: " + Math.PI);
-		System.out.println("pi, apporximated: " + pi);
+		System.out.println("pi, apporximated:     " + pi);
 
 			
 			
