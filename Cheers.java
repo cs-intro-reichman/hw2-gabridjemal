@@ -14,7 +14,7 @@ public class Cheers {
             int repeat = Integer.parseInt(args[1]);
             while (count1<word.length()) {
                 boolean useAn = "AEFHILMNORSX".indexOf(word.charAt(count1)) >= 0;
-                String sentence = useAn ? "Give me an "+ word.charAt(count1)+": "+word.charAt(count1)+"!" : "Give me a "+ word.charAt(count1)+": "+word.charAt(count1)+"!";
+                String sentence = useAn ? "Give me an "+ word.charAt(count1)+": "+word.charAt(count1)+"!" : "Give me a  "+ word.charAt(count1)+": "+word.charAt(count1)+"!";
                 System.out.println(sentence);
                 count1++;  }
             System.out.println("What does that spell?");    
