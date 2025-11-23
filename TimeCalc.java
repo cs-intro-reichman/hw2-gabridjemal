@@ -1,3 +1,7 @@
+// feedback
+// even if an else if blocks execute small amout of code 
+// we still prefer to write them as blocks instead of a line 
+// apart from that, great!
 public class TimeCalc {
     public static void main(String[] args) {
         int hours = Integer.parseInt("" + args[0].charAt(0) + args[0].charAt(1));
