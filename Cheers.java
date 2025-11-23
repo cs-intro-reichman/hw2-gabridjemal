@@ -1,8 +1,6 @@
 //feedback
-
-/*
-Great work boaz!
-*/
+// again very good, but do space out your code 
+// the use of indexOf is spot on !
 
 
 // Prints a crowd cheering output.

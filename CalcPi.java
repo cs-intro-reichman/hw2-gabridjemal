@@ -1,3 +1,6 @@
+// nice and very clean 
+// space out the code more for more readabiltiy 
+// the while blocks are a little crammed
 // Computes an approximation of PI.
 public class CalcPi {
 	public static void main(String [] args) { 
